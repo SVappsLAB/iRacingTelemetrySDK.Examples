@@ -1,1 +1,1 @@
-# iRacingTelemetryAPI.Examples
+# iRacingTelemetrySDK.Examples
